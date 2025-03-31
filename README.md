@@ -34,5 +34,4 @@ Script Python que adiciona automaticamente uma imagem de assinatura em todas as 
 - Suporte a múltiplas assinaturas
 - Sistema de templates de documentos
 
-## 📝 Licença
-MIT License - Livre para uso e modificação
+
